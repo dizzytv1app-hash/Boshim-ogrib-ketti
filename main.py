@@ -29,7 +29,7 @@ ADMIN_USERNAME = "@Reyimberganov_i"
 ADMIN_CONTACT_URL = f"https://t.me/{ADMIN_USERNAME.lstrip('@')}"
 CHANNEL_USERNAME = "@AniNavo1"
 CHANNEL_LINK = "https://t.me/AniNavo1"
-BOT_USERNAME = "Animelaarbot"  # @ belgisiz, deep-link uchun (t.me/<BOT_USERNAME>?start=kod)
+BOT_USERNAME = "Annimelarbot"  # @ belgisiz, deep-link uchun (t.me/<BOT_USERNAME>?start=kod)
 DEFAULT_REQUIRED_CHANNEL_TITLE = "AniNavo1"
 
 # Anime qo'shishda tanlash uchun janrlar ro'yxati (stikersiz)
